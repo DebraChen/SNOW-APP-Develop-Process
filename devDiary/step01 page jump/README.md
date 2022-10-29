@@ -16,7 +16,7 @@
 
 4. Link second page to view controller  
 Click on top of the vontroller,   
-<img width="500" alt="Screenshot 2022-10-29 at 01 33 56" src="https://user-images.githubusercontent.com/91618091/198753602-f4e261e6-c52a-44db-9e5d-6464a5bf5550.png">. 
+<img width="500" alt="Screenshot 2022-10-29 at 01 33 56" src="https://user-images.githubusercontent.com/91618091/198753602-f4e261e6-c52a-44db-9e5d-6464a5bf5550.png">.   
 Enter new controller's name in the class  
 <img width="500" alt="Screenshot 2022-10-29 at 01 34 43" src="https://user-images.githubusercontent.com/91618091/198753631-e323b3ae-0547-4c3a-b925-840d9cd6f23a.png">  
 Shown assistant controller by the Main page  
@@ -31,7 +31,8 @@ Copy from class, paste to the ID text fiel
 
 5. Back to the first view controller and enter the \(code01) , Code01Controller is a /(controller name)  
    var code01 = "let view = self.storyboard?.instantiateViewController(withIdentifier: "Code01Controller")as!Code01Controller  
-        self.present(view, animated: true, completion:nil)"
+        self.present(view, animated: true, completion:nil)"  
+          
         <img width="500" alt="Screenshot 2022-10-29 at 01 59 10" src="https://user-images.githubusercontent.com/91618091/198754674-5637573a-8aa7-4f0a-ae05-6849a9d9e95c.png">
         
 
