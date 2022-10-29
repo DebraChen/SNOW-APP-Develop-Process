@@ -14,8 +14,8 @@
 3. Add new view controller via main, then add a UI set to make the change more obvious during the test
 <img width="500" alt="Screenshot 2022-10-29 at 01 14 58" src="https://user-images.githubusercontent.com/91618091/198752858-9bd70a9d-b5fe-40bf-969c-84e63d263e56.png">
 
-4. Link second page to view controller
-Click on top of the vontroller, 
+4. Link second page to view controller  
+Click on top of the vontroller,   
 <img width="500" alt="Screenshot 2022-10-29 at 01 33 56" src="https://user-images.githubusercontent.com/91618091/198753602-f4e261e6-c52a-44db-9e5d-6464a5bf5550.png">. 
 Enter new controller's name in the class  
 <img width="500" alt="Screenshot 2022-10-29 at 01 34 43" src="https://user-images.githubusercontent.com/91618091/198753631-e323b3ae-0547-4c3a-b925-840d9cd6f23a.png">  
@@ -29,6 +29,6 @@ Back to the seconf page and give the page a storyboard ID name
 Copy from class, paste to the ID text fiel  
 <img width="293" alt="Screenshot 2022-10-29 at 01 46 47" src="https://user-images.githubusercontent.com/91618091/198754147-b621bd41-d13e-4567-983d-e525b2a574f1.png">  
 
-5. Back to the first view controller and enter the \(code01) , Code01Controller is a /(controller name)
-   var code01 = "let view = self.storyboard?.instantiateViewController(withIdentifier: "Code01Controller")as!Code01Controller
+5. Back to the first view controller and enter the \(code01) , Code01Controller is a /(controller name)  
+   var code01 = "let view = self.storyboard?.instantiateViewController(withIdentifier: "Code01Controller")as!Code01Controller  
         self.present(view, animated: true, completion:nil)"
