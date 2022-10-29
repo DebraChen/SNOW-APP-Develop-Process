@@ -25,9 +25,9 @@ Control + Drag the interaction buttton in to "class ViewController: UIViewContro
 <img width="500" alt="Screenshot 2022-10-29 at 01 41 38" src="https://user-images.githubusercontent.com/91618091/198753917-b8414021-5645-474d-ba07-995daf035434.png">  
 Set connection as "Action", give it a name  
 Back to the seconf page and give the page a storyboard ID name  
-<img width="296" alt="Screenshot 2022-10-29 at 01 46 31" src="https://user-images.githubusercontent.com/91618091/198754135-318bf9a3-8f58-4633-b5dc-75b898a4a059.png">  
+<img width="500" alt="Screenshot 2022-10-29 at 01 46 31" src="https://user-images.githubusercontent.com/91618091/198754135-318bf9a3-8f58-4633-b5dc-75b898a4a059.png">  
 Copy from class, paste to the ID text fiel  
-<img width="293" alt="Screenshot 2022-10-29 at 01 46 47" src="https://user-images.githubusercontent.com/91618091/198754147-b621bd41-d13e-4567-983d-e525b2a574f1.png">  
+<img width="500" alt="Screenshot 2022-10-29 at 01 46 47" src="https://user-images.githubusercontent.com/91618091/198754147-b621bd41-d13e-4567-983d-e525b2a574f1.png">  
 
 5. Back to the first view controller and enter the \(code01) , Code01Controller is a /(controller name)  
    var code01 = "let view = self.storyboard?.instantiateViewController(withIdentifier: "Code01Controller")as!Code01Controller  
