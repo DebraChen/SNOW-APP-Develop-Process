@@ -32,3 +32,7 @@ Copy from class, paste to the ID text fiel
 5. Back to the first view controller and enter the \(code01) , Code01Controller is a /(controller name)  
    var code01 = "let view = self.storyboard?.instantiateViewController(withIdentifier: "Code01Controller")as!Code01Controller  
         self.present(view, animated: true, completion:nil)"
+        <img width="500" alt="Screenshot 2022-10-29 at 01 59 10" src="https://user-images.githubusercontent.com/91618091/198754674-5637573a-8aa7-4f0a-ae05-6849a9d9e95c.png">
+        
+
+        
