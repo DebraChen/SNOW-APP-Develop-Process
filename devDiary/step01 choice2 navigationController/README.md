@@ -11,3 +11,10 @@
 let view = self.storyboard?.instantiateViewController(withIdentifier: "Code01Controller")as!Code01Controller  
 self.navigationController?.pushViewController(view, animated: true)  
 <img width="500" alt="Screenshot 2022-11-03 at 15 30 12" src="https://user-images.githubusercontent.com/91618091/199764055-d19fe9b6-f8d3-45ae-a427-8174b080bbff.png">  
+  
+Outcome difference:  
+Choice 1
+<img width="500" alt="Screenshot 2022-11-03 at 15 34 52" src="https://user-images.githubusercontent.com/91618091/199765166-5d52846a-a332-49dc-84c7-94bd195dd846.png">
+
+Choice 2
+<img width="500" alt="Screenshot 2022-11-03 at 15 33 08" src="https://user-images.githubusercontent.com/91618091/199764809-818217fa-f6e9-45a4-acde-40a539ec943a.png">
