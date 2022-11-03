@@ -1,4 +1,4 @@
-##Here is another way of making the page jump, by using navigatecontroller, the view will go to another view by swiching page, instead of adding page on top of the other.  
+## Here is another way of making the page jump, by using navigatecontroller, the view will go to another view by swiching page, instead of adding page on top of the other.  
   
 1.Chose Main. file, chose the button on top of one view  
 <img width="500" alt="Screenshot 2022-11-03 at 15 32 25" src="https://user-images.githubusercontent.com/91618091/199764639-2ff43922-7653-4d8d-8877-5f18f189635d.png">  
@@ -12,7 +12,7 @@ let view = self.storyboard?.instantiateViewController(withIdentifier: "Code01Con
 self.navigationController?.pushViewController(view, animated: true)  
 <img width="500" alt="Screenshot 2022-11-03 at 15 30 12" src="https://user-images.githubusercontent.com/91618091/199764055-d19fe9b6-f8d3-45ae-a427-8174b080bbff.png">  
   
-Outcome difference:  
+### Outcome difference:  
 Choice 1  
 <img width="500" alt="Screenshot 2022-11-03 at 15 34 52" src="https://user-images.githubusercontent.com/91618091/199765166-5d52846a-a332-49dc-84c7-94bd195dd846.png">  
   
