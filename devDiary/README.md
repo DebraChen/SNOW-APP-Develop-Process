@@ -24,8 +24,13 @@ https://github.com/JGL/DiplomaInAppleDevelopment-AutumnWinter2022/wiki/Reading-L
 Online Resources:  
 https://docs.swift.org/swift-book/LanguageGuide/Functions.html  
 
-For view changes:  
+View changes:  
 https://www.bilibili.com/video/BV1wW411S7an/?vd_source=c3241b1f3625c229f82c3d090e4df18f  
 https://blog.caver.cc/2021/02/08/2021-02-08-iOS-Storyboards-Getting-Started/  
 
-For
+UIScrollView:  
+https://www.kodeco.com/5758454-uiscrollview-tutorial-getting-started  
+  
+Password:  
+20' https://www.bilibili.com/video/BV1aJ411U78T/?spm_id_from=333.788.recommend_more_video.0&vd_source=c3241b1f3625c229f82c3d090e4df18f  
+  
