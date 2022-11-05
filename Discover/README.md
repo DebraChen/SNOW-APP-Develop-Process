@@ -1,3 +1,5 @@
+This discover and research had been wrote very detaily, in order to recall and review some thoughts and ideas that I haven't dive too deep， also works as mental cleansing. 
+
 
 Stage 1:  
 I thought abbout making a virtual space. It could have more artist's works (music, schulpture, architecture, fine arts etc) after they send to me, and I transfer them into digital works and put into unreal, make a cool event and gallery. I connected some artist, they are very happy to join, I tried to scan some works by Lidar, it was a bit rough cuz my Lidar is not precision enough.   
@@ -25,6 +27,10 @@ Examples online http://www.wekinator.org/example-projects/
   
   
 At this period of time, musicians and I had several gigs together. I was satisfied to use stylegan2, LucidSonic Dreams, DiscoDifussion to make the video clips that lots of people likes. But in the process, I also made lots of terrible and ugly videos(there are so many different reasons, like the dataset are too complex, too many colors, or runtime not enough, or doesn't gave right describtion when I use the difussion etc).   
-Look at those images and videos, I start thinking why generally we all like beautiful things, but lake of appreciation of ugliness, I researched some of the artist and works, (Clare Shenstone
+Look at those images and videos, I start thinking why generally we all like beautiful things, but lake of appreciation of ugliness, I researched some of the artist and works(Clare Shenstone, Damien Hirst, Gerard Garouste, Gunther von Hagens etc), I felt uncomfortable, alert, confused. They feeling makes me remembered the life back in China. And the second day, I saw the news about about lock down has been continued in Xinjiang for 32 days, etc(Will shown in my research news file), I felt the mission on my shouder. Instead of 
+
+
+
+
 
 I'm so unsatisfied with my research ability
