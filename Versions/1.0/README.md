@@ -12,4 +12,7 @@ Relationship Segue View controllers:
   
 2.Change the table view's content from dynamic prototypes to static cells, which makes the display looks the same as in simulators.  
 <img width="500" alt="Screenshot 2022-11-04 at 22 52 45" src="https://user-images.githubusercontent.com/91618091/200087794-3f8a92c8-c0aa-4383-b8cc-52b033a953fe.png">  
-Edit the cell, lable, and button etc.
+Edit the cell, lable, and button etc.  
+<img width="500" alt="Screenshot 2022-11-05 at 12 59 29" src="https://user-images.githubusercontent.com/91618091/200121099-8e2d2115-4188-4f14-9833-21114515aacb.png">. 
+
+
