@@ -1,6 +1,7 @@
 I am an illutrator, since the first time that I know DiscoDifussion, I've been fascinated. So I found the resources online, and spend lots of time on testing it.  
 New Online Resources:  
 https://decentralizedcreator.com/use-disco-diffusion-for-free/  
+https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb  
 https://docs.google.com/document/d/1l8s7uS2dGqjztYSjPpzlmXLjl5PM3IGkRWI3IiCuK7g/edit  
 
   
