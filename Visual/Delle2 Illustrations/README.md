@@ -48,9 +48,7 @@ image_prompts = {
 Then I colab with different musicians, performed gigs together as VJ, use images to tell stories in their songs about brazil, nuclear war, life...  
   ![1R0A5126](https://user-images.githubusercontent.com/91618091/200635156-c48640d4-b546-435d-aaec-2a83000d5a57.JPG)  
   <img width="1200" alt="Screenshot 2022-11-08 at 17 34 25" src="https://user-images.githubusercontent.com/91618091/200635459-9c8cbc10-d159-43a6-89b1-8c31843a4a54.png">  
-  And it goes very well
-   
-So I decided to use it as my way to tell stories, but change styles and describing words related to the story, instead of only for entertament.   
+  And it goes very well, most of them said that the visual helps them dive deeper into music. So I decided to use it as my way to tell stories, see if it could be illstrations for storytelling. Change styles and describing words according to the story, instead of only for entertament and looks pretty.   
 (I tried 2D, 3D, zoom in and out, spin, videos etc. since videos hasn't been used in this project, I will just write about it another time)  
 
 According to my memories to Xinjiang, and the story that I wrote(https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/TheStories%2C%20interviews%20and%20news/Story%20one/App%20Story1%20in%20English), I wrote the describtions below:  
