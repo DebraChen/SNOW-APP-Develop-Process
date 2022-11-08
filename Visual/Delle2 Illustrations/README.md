@@ -1,5 +1,8 @@
 I am an illutrator, since the first time that I know DiscoDifussion, I've been fascinated. So I found the resources online, and spend lots of time on testing it.  
-New Online Resources: https://decentralizedcreator.com/use-disco-diffusion-for-free/  
+New Online Resources:  
+https://decentralizedcreator.com/use-disco-diffusion-for-free/  
+https://docs.google.com/document/d/1l8s7uS2dGqjztYSjPpzlmXLjl5PM3IGkRWI3IiCuK7g/edit  
+
   
 I used Colab first, after ran too many rolls, it reached the GPU limits. So I tried to use jupyterbook to tun it on my laptop to make it runs quicker, but my 2017 8GBcore 128GB Mac was not strong enough for it, and installing those right and wrong libraries made my laptop goes too slow, so I paid for Colab pro. It works well for DiscoDifussion, but was enough for StyleGan2 dataset training, because the dataset that I prepared were too colorful, and complex. Then I upgrade it to Colab Pro+. Even if it took me two days to train those 120 images, it was still very blurred. So I realized, inorder to make more various illustrations, Disco Difussion might suits my needs more for now.  
   
