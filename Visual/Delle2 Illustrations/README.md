@@ -3,7 +3,7 @@ New Online Resources: https://decentralizedcreator.com/use-disco-diffusion-for-f
   
 I used Colab first, after ran too many rolls, it reached the GPU limits. So I tried to use jupyterbook to tun it on my laptop to make it runs quicker, but my 2017 8GBcore 128GB Mac was not strong enough for it, and installing those right and wrong libraries made my laptop goes too slow, so I paid for Colab pro. It works well for DiscoDifussion, but was enough for StyleGan2 dataset training, because the dataset that I prepared were too colorful, and complex. Then I upgrade it to Colab Pro+. Even if it took me two days to train those 120 images, it was still very blurred. So I realized, inorder to make more various illustrations, Disco Difussion might suits my needs more for now.  
   
-  ![fakes000016](https://user-images.githubusercontent.com/91618091/200633597-9ad3da11-cc88-4243-b014-0c1e27e26ef3.jpg)  
+![reals](https://user-images.githubusercontent.com/91618091/200639093-ae54a4ec-9a84-4211-9578-11aec2a48aaa.jpg)
 (One of my dataset for StyleGan2)  
   
 ![fakes000016](https://user-images.githubusercontent.com/91618091/200633062-cbde333c-ac42-496c-bc17-30f0de4f7425.jpg)  
