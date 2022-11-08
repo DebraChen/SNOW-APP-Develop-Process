@@ -47,7 +47,7 @@ image_prompts = {
    
 Then I colab with different musicians, performed gigs together as VJ, use images to tell stories in their songs about brazil, nuclear war, life...  
   ![1R0A5126](https://user-images.githubusercontent.com/91618091/200635156-c48640d4-b546-435d-aaec-2a83000d5a57.JPG)  
-  <img width="800" alt="Screenshot 2022-11-08 at 17 34 25" src="https://user-images.githubusercontent.com/91618091/200635459-9c8cbc10-d159-43a6-89b1-8c31843a4a54.png">  
+  <img width="1200" alt="Screenshot 2022-11-08 at 17 34 25" src="https://user-images.githubusercontent.com/91618091/200635459-9c8cbc10-d159-43a6-89b1-8c31843a4a54.png">  
   And it goes very well
    
 So I decided to use it as my way to tell stories, but change styles and describing words related to the story, instead of only for entertament.   
