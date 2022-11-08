@@ -11,7 +11,7 @@ I used Colab first, after ran too many rolls, it reached the GPU limits. So I tr
   
 I used Colab first, after ran too many rolls, it reached the GPU limits. So I tried to use jupyterbook to tun it on my laptop to make it runs quicker, but my 2017 8GBcore 128GB Mac was not strong enough for it, and installing those right and wrong libraries made my laptop goes too slow, so I paid for Colab pro. It works well for DiscoDifussion, but was enough for StyleGan2 dataset training, because the dataset that I prepared were too colorful, and complex. Then I upgrade it to Colab Pro+. Even if it took me two days to train those 120 images, it was still very blurred. So I realized, inorder to make more various illustrations, Disco Difussion might suits my needs more for now.  
   
-At first, I was focus on make illustrations beautiful and fun. By chosing those beautiful and styles, colors and test it out, I got some satisfied results.  
+At first, I was focus on make illustrations beautiful and fun. By chosing those beautiful and styles, colors and test it out, I got some satisfied results.   
 ![IMG_8498](https://user-images.githubusercontent.com/91618091/200610535-fe14e408-903b-48d4-bfe2-760a85533535.JPG)   
 ![IMG_8499](https://user-images.githubusercontent.com/91618091/200610553-71ca1b5a-a3cb-4368-a127-0ff0e1ff251d.JPG)  
   
@@ -40,7 +40,7 @@ image_prompts = {
 }  
   
   
-  So it looks like this: 
+  So it looks like this:   
 ![TimeToDisco2 15 July(0)_0006](https://user-images.githubusercontent.com/91618091/200610118-b737f69b-c53a-47e2-9a90-954a824c8850.png)   
 ![TimeToDisco2 15 July(0)_0019](https://user-images.githubusercontent.com/91618091/200610182-fe228e8d-5d4a-4f8d-aee2-3d5a2ad7ad8e.png)  
 
@@ -53,7 +53,7 @@ Then I colab with different musicians, performed gigs together as VJ, use images
 So I decided to use it as my way to tell stories, but change styles and describing words related to the story, instead of only for entertament.   
 (I tried 2D, 3D, zoom in and out, spin, videos etc. since videos hasn't been used in this project, I will just write about it another time)  
 
-According to my memories to Xinjiang, and the story that I wrote, I wrote the describtions below:  
+According to my memories to Xinjiang, and the story that I wrote(https://github.com/DebraChen/SNOW-APP-Develop-Process/blob/main/TheStories%2C%20interviews%20and%20news/Story%20one/App%20Story1%20in%20English), I wrote the describtions below:  
   
 text_prompts = {  
     0: ["A beautiful painting of selphone cases, dim lights, one shining phone screen, broken mechanical parts by Ismail inceoglu, Jack butler Yeats, James turret, Andrew Wyeth, Georges seurat,ambrotype, ColorCombo3"],  
@@ -73,7 +73,7 @@ image_prompts = {
   
   
   The result was very satisfied. it looks different from the image that I might paint, but still brings me lot of suprises.
-  ![image](https://user-images.githubusercontent.com/91618091/200636751-a3785801-d748-4d5c-b2b0-ea6d04fb566b.png)
+  ![image](https://user-images.githubusercontent.com/91618091/200636751-a3785801-d748-4d5c-b2b0-ea6d04fb566b.png)  
 ![download (10)](https://user-images.githubusercontent.com/91618091/200636794-d4488751-5f7f-4ac3-805b-ba8f5d10a867.png)
 
   
