@@ -1,5 +1,8 @@
 After the Button interaction test in the div diary, I added morse code and password verification, then call the next view controller if the password is right, to make sure the most basic and important functions work  
   
+![FlowChart1 0](https://user-images.githubusercontent.com/91618091/201337041-3d599768-48fc-4fbf-a311-50ae6c9acd4e.jpg)
+
+  
 Process： 
 1. Add Tap Bar Controller after the first page to control different navigation controllers, by “control + drag” Tap Bar view controllers on top of navigation controllers in the main. view.  Then chose View controllers.  
   
