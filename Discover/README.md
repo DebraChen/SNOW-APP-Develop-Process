@@ -27,9 +27,9 @@ Examples online http://www.wekinator.org/example-projects/
   
   
 At this period of time, musicians and I had several gigs together. I was satisfied to use stylegan2, LucidSonic Dreams, DiscoDifussion to make the video clips that lots of people likes. But in the process, I also made lots of terrible and ugly videos(there are so many different reasons, like the dataset are too complex, too many colors, or runtime not enough, or doesn't gave right describtion when I use the difussion etc).   
-Look at those images and videos, I start thinking why generally we all like beautiful things, but lake of appreciation of ugliness, I researched some of the artist and works(Clare Shenstone, Damien Hirst, Gerard Garouste, Gunther von Hagens etc), I felt uncomfortable, alert, confused. They feeling makes me remembered the life back in China. And the second day, I saw the news about about lock down has been continued in Xinjiang for 32 days, etc(Will shown in my research news file). I felt the pain in my heart and mission on my shouder. Instead of so something for entertament, I wish to see what could I do for those who stffered or are suffering.  
+Look at those images and videos, I start thinking why generally we all like beautiful things, but lake of appreciation of ugliness, I researched some of the artists and works(Clare Shenstone, Damien Hirst, Gerard Garouste, Gunther von Hagens etc), I felt uncomfortable, alert, confused. They feeling makes me remembered the life back in China. And the second day, I saw the news about about lock down has been continued in Xinjiang for 32 days, etc(Will shown in my research news file). I felt the pain in my heart and mission on my shouder. Instead of so something for entertament, I wish to see what could I do for those who stffered or are suffering.  
   
-I don't have ability to build
+I was thinging about making something to fool government testing or a secret language to communicate with other people, so I had an interview with some people who live in Xinjiang, they prefer speak the stories out secretly than 
 
 
 
