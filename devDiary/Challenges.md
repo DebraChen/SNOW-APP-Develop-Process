@@ -2,7 +2,7 @@ I learned the fundamentals and the exploration at Joel's Dip-apple class and sta
 Course books:  
 <img width="500" alt="Screenshot 2022-11-14 at 16 20 28" src="https://user-images.githubusercontent.com/91618091/201711428-70bdd881-ef3a-494a-9acc-f6fb9e353284.png">  
 And I made my first photo frame app, it's so fun to use, so I chose to abandon my old way: installations, physical computing, or game engine, then turn to learn and use swift to write an artwork  
-![IMG_7412](https://user-images.githubusercontent.com/91618091/201712446-d2005f48-b0f8-42a6-bc13-5e8bec4640f3.png)  
+<img width="355" alt="Screenshot 2022-11-14 at 16 58 23" src="https://user-images.githubusercontent.com/91618091/201720349-63055349-dece-438c-a22e-561490edb98a.png">  
 (My first app, has only one page, but led me to step on the first stage of apple development)   
 
 To add and link the second page, I followed several tutorials online and found the simplest way to make it works: https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/step01%20choice3%20NoCodeStoryboard  
