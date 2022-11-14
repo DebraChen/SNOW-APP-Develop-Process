@@ -31,3 +31,6 @@ Now I'm working on writing the story about things that happened after 5th May 20
 If time, I will write some more stories from research, or add the news about how does people's freedom, physical freedom, speech freedom and thinking freedom have been limited.
 
 Then add some more steganography posters, password verify pages, story, and interaction pages.
+<img width="500" alt="1 0" src="https://user-images.githubusercontent.com/91618091/201721690-ecc4d0e5-e89b-45c3-aac2-2af27c3fb62f.png">
+
+
