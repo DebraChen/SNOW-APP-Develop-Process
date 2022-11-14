@@ -20,7 +20,8 @@ After test the flow of the first version, I recorded the missing part, and plan 
 Add code  
   <img width="500" alt="Screenshot 2022-11-11 at 18 32 26" src="https://user-images.githubusercontent.com/91618091/201407859-644dc483-a548-46a0-aec5-96976c7f1fd5.png">  
   
-  
+<img width="500" alt="Screenshot 2022-11-14 at 17 06 16" src="https://user-images.githubusercontent.com/91618091/201721912-5f717bd5-b508-48d1-94b0-a819c075f301.png">  
+
   3. Clear the text field automatically after enter the code  
   https://stackoverflow.com/questions/37084537/how-to-clear-the-text-field-automatically
   Change from   
