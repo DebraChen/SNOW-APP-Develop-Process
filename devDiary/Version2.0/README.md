@@ -26,7 +26,7 @@ And the class name of the fist view controller is the same as the one in ViewCon
 So I add class name for each view controller, and make each new class's name are same to each view controller   
 "class ViewController1: UIViewController { ... }"   
 "class ViewController2: UIViewController { ... }"   
-<img width="381" alt="Screenshot 2022-11-14 at 18 37 09" src="https://user-images.githubusercontent.com/91618091/201739444-b3732183-07fd-44ea-af86-03dc8a589971.png">    
+<img width="500" alt="Screenshot 2022-11-14 at 18 37 09" src="https://user-images.githubusercontent.com/91618091/201739444-b3732183-07fd-44ea-af86-03dc8a589971.png">    
   
 Then it worked. So I just need to write the similar function to verify the code, and lead to different pages   
 after user entered the right or wrong password, and "=" the text file to nil or “ ” 
