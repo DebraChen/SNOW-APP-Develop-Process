@@ -28,10 +28,12 @@ Add code
   fi.text = "0"
   to
   fi.text = " "
-  <img width="500" alt="Screenshot 2022-11-11 at 18 29 01" src="https://user-images.githubusercontent.com/91618091/201406008-d4345ac3-2359-4bd8-a1a2-f703d6efea95.png">  
+
   
   
   After add the story pieces and images into table cells, we got a whole process of one story reading.  
   The next version, I will add more story lines, text using tab bar controller or button to present better experience.
+
+<img width="500" alt="Screenshot 2022-11-14 at 17 06 16" src="https://user-images.githubusercontent.com/91618091/201722031-5d0b2fa4-3cf1-492d-b3d0-ee43c1d5fdd4.png">
 
 
