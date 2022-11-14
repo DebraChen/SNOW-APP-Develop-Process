@@ -22,6 +22,6 @@ The ways to name, link, change links of UI kits, and call segue brought me a lot
   
 I wrote some more problems and ways of writing them in those devDiary files, I think the most challenge is that I need to have the confidence to decide to write an app by using swift. Mainly because it's a new language, none of my friends writes coding in this language so when I meet problems I need to have the ambition to solve all of them by myself, in a limited time.
 
-It took me around 40 days to write the code as a beginner, now the whole process worked very well as my first plan, so I felt very happy about my decision, and now I have more confidence to face some more challenges.
+It took me around 40 days to write the code as a beginner, but now the whole process worked well as my plan, so I felt very happy about my decision. Even if it is so rough and I don't have time to make any visual design yet, now I have more confidence to face some more challenges.
   
-Appreciate a lot for the support that I got from Rebeca and Joel
+Appreciate a lot for the support that I got from Rebeca and Joel for the project, and also the self-learning ability from CCI
