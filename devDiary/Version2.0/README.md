@@ -30,6 +30,12 @@ So I add class name for each view controller, and make each new class's name are
   
 Then it worked. So I just need to write the similar function to verify the code, and lead to different pages   
 after user entered the right or wrong password, and "=" the text file to nil or “ ” 
+ 
+ 
+### Control views 
+The easiest way is control drag Buttons, chose show.  
+https://github.com/DebraChen/SNOW-APP-Develop-Process/tree/main/devDiary/step01%20choice3%20NoCodeStoryboard
   
-After I gave them names 
-<img width="1000" alt="Screenshot 2022-11-14 at 18 13 34" src="https://user-images.githubusercontent.com/91618091/201735154-0ef4df4e-3c65-44bf-ba11-8eda1b744824.png">
+But the shortage of this way is, when we didn't quit, but chose to jump to the second story from the button  
+at the end of the first story, then it will show too many layers when user try to exit. For now, I will just  
+chose the tab bar controller first
