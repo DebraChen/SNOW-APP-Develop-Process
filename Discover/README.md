@@ -33,6 +33,7 @@ Looking at those images and videos, I start thinking why generally we all like b
   
 I was thinking about making something to fool government testing or a secret language to communicate with other people, but I wonder if there are any safety problems for me if someone is gonna use it in unexpected ways, so I had an interview with some people who live in Xinjiang, they prefer to speak the stories out secretly. Also, according to my research, those companies or person who tried to make VPN was in trouble, and there some code transfer software already exist, I also wrote a very simple code creat and transferring app before, (https://github.com/DebraChen/Python-Projects/tree/main/03%20-%20python%20coding%20game ) so I decided to make something to tell their stories instead.
   
-<img width="1000" alt="Screenshot 2022-11-15 at 12 24 04" src="https://user-images.githubusercontent.com/91618091/201919172-10957da7-89c2-4eaf-90f8-207507a7589d.png">  
+<img width="1000" alt="Screenshot 2022-11-05 at 15 04 29" src="https://user-images.githubusercontent.com/91618091/201923265-b711436e-ab41-401a-9bac-994f7abf6d10.png">
+
   
 Then I started further research and hands-on practices  
