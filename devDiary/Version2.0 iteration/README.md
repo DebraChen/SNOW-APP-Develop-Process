@@ -9,7 +9,9 @@ Choose which is the main character on my stage. As my material is the app instea
 they chose the "wrong" button, which lead to a "404" page. 
 
 So I could test their reactions. They might be able to find the hidden "back" button, or quit the page, and have to decode, enter the right  
-code again, or will they just go to the second story?  
+code again, or will they just go to the second story?  The troublesome decoding process might let them to think what is the "right" anwser,  
+and, wait, who decided the "right" and "wrong"?  
+  
 Also, get their feedback about how they feel about the missing page. the story? the decoding?  
   
 I think I could get some fun interviews after the testing. Could be a fun human observation.
