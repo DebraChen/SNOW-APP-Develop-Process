@@ -1,4 +1,6 @@
-In this chapter, I used TalktoTransformer (InferKit Demo) to write a story with me. I gave a beginning sentence: "Central control room developed a device  
+In this chapter, the story describing the ways that the power controlls the personal freedom.
+
+I used TalktoTransformer (InferKit Demo) to write a story with me. I gave a beginning sentence: "Central control room developed a device  
 that could determine the loyalty of their robots and later on just as the influence of this new system was being revealed,  
 a new case came in."  
   
