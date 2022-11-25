@@ -1,4 +1,4 @@
-# SNOW-APP-Development-Process
+# Absolute Value project develop processes and resources
 By Swift, figma, Stylegan2, disco diffusion,   
   
 Timeline  
