@@ -10,4 +10,4 @@ As an art piece of the app, it is expressing:
   <img width="1000" alt="Flow" src="https://user-images.githubusercontent.com/91618091/201926746-49261d84-e19d-479a-8844-0de863777efc.png">
 
 
-<img width="1000" alt="Screenshot 2022-11-05 at 14 29 43" src="https://user-images.githubusercontent.com/91618091/201926774-46013bf2-4753-407e-9f96-80aa3d616773.png">
+<img width="1000" alt="Screenshot 2022-11-25 at 10 03 36" src="https://user-images.githubusercontent.com/91618091/203957585-d9bc1179-a4ab-4a2b-acc7-f257054d9c55.png">  
