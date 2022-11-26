@@ -13,7 +13,9 @@ for stand by me when I go through all of them, and give me support. Even when it
 dangerous for them to help with the interviews.
 
 rethink
-
 I think I should record the user testing videos next time, they suggested me lots of 
 usrful suggestions on round two, but I could not remember all of them, it's very sad. 
-So I will make better user test summary during the exhibition, do it more professionally
+So I will make better user test summary during the exhibition, do it more professionally.
+  
+I also need to considering how to collect, analyse and display interviews, and research better,  
+to put them in order and be more convenient to use
