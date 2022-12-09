@@ -1,4 +1,8 @@
 
 iterative plan 03：Debug the keyboard function when run in real iphone
 
-Solved: 09/12/2022
+Version04Solved: 08/12/2022
+
+iterative plan 04: Adjust objects
+
+Version05 Solved: 08/12/2022
